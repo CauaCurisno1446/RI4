@@ -1,2 +1,5 @@
-# RI4
-Repositório dedicado à entrega da RI3 da matéria de POO
+# Entrega  — *RI 4*
+
+> Professor: *Gerson da Penha* <br>
+> Aluno: *Cauã Cursino* <br>
+> Turma: 3° ADS
